@@ -1,39 +1,41 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F1A&fontColor=00D4FF&text=%3E_%20SHOBHIN%20JOSE&fontSize=40&desc=Fullstack%20Engineer%20%7C%20DevOps%20%7C%20Cloud&descColor=00AAFF&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0D0000&height=200&fontColor=C0392B&text=SHOBHIN%20JOSE&fontSize=45&desc=Fullstack%20Engineer%20%7C%20DevOps%20%7C%20Cloud&descColor=E74C3C&descSize=18&animation=fadeIn" />
 </div>
 
+<br/>
+
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&color=00D4FF&center=true&vCenter=true&width=820&lines=$ whoami+%E2%86%92+Fullstack+Engineer+%7C+DevOps+%7C+Cloud;$ stack+%E2%86%92+FastAPI+%7C+React+%7C+Docker+%7C+AWS+%7C+CI%2FCD;$ cat+open-to.txt+%E2%86%92+DevOps+%26+Cloud+Engineer+Roles;$ git+log+--oneline+%E2%86%92+Building+Momentum+%7C+Scaling+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&color=C0392B&center=true&vCenter=true&width=820&pause=1000&lines=Fullstack+Engineer+%7C+DevOps+%7C+Cloud;FastAPI+%7C+React+%7C+Docker+%7C+AWS+%7C+CI%2FCD;Open+to+DevOps+%26+Cloud+Engineer+Roles;Building+Momentum+%7C+Scaling+Systems" />
 </div>
 
 <br/>
 
 <div align="center">
 
-![Degree](https://img.shields.io/badge/B.Tech_CSE-Vimal_Jyothi_Engineering_College-00D4FF?style=flat-square&logo=graduation-cap&logoColor=white&labelColor=0A0F1A)
-![Batch](https://img.shields.io/badge/Batch-2026-00AAFF?style=flat-square&labelColor=0A0F1A)
-![Location](https://img.shields.io/badge/Bangalore,_India-00D4FF?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0A0F1A)
+![Degree](https://img.shields.io/badge/B.Tech_CSE-Vimal_Jyothi_Engineering_College-C0392B?style=flat-square&labelColor=0D0000)
+![Batch](https://img.shields.io/badge/Batch-2026-8B0000?style=flat-square&labelColor=0D0000)
+![Location](https://img.shields.io/badge/Bangalore,_India-C0392B?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0D0000)
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shobhin_Jose-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0F1A)](https://www.linkedin.com/in/shobhin-jose-7a253b375)
-[![Email](https://img.shields.io/badge/Email-shobhinjose9562@gmail.com-00AAFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F1A)](mailto:shobhinjose9562@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Lucashobhin-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0F1A)](https://github.com/Lucashobhin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shobhin_Jose-C0392B?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0000)](https://www.linkedin.com/in/shobhin-jose-7a253b375)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-8B0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0000)](mailto:shobhinjose9562@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Lucashobhin-C0392B?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0000)](https://github.com/Lucashobhin)
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Lucashobhin&color=00D4FF&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/Lucashobhin?style=flat-square&color=00D4FF&labelColor=0A0F1A)
+![Profile Views](https://komarev.com/ghpvc/?username=Lucashobhin&color=C0392B&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/Lucashobhin?style=flat-square&color=C0392B&labelColor=0D0000)
 
 </div>
 
 ---
 
-## `> whoami`
+## whoami
 
 Fullstack Engineer and DevOps practitioner building production-grade systems at HG Infotech, Bangalore. I architect end-to-end pipelines — from containerized microservices to cloud-native deployments — with a growing focus on ERP modernization and intelligent automation.
 
@@ -49,11 +51,11 @@ OPEN_TO   =  DevOps Engineer  |  Cloud Engineer  |  Fullstack Roles
 
 ---
 
-## `$ cat tech-stack.txt`
+## Tech Stack
 
 **Languages & Backend**
 
-[![Tech Stack](https://skillicons.dev/icons?i=python,fastapi,sql,linux,bash&theme=dark)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=python,fastapi,postgres,linux,bash&theme=dark)](https://skillicons.dev)
 
 **Frontend**
 
@@ -61,11 +63,11 @@ OPEN_TO   =  DevOps Engineer  |  Cloud Engineer  |  Fullstack Roles
 
 **DevOps & Cloud**
 
-[![Tech Stack](https://skillicons.dev/icons?i=docker,aws,github,git,githubactions&theme=dark)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=docker,aws,git,github,githubactions&theme=dark)](https://skillicons.dev)
 
 ---
 
-## `$ ls /expertise`
+## Expertise
 
 | Domain | Proficiency | Details |
 | :-- | :-- | :-- |
@@ -77,7 +79,7 @@ OPEN_TO   =  DevOps Engineer  |  Cloud Engineer  |  Fullstack Roles
 
 ---
 
-## `$ ls /projects`
+## Projects
 
 <details open>
 <summary><b>&#9654; Momentum &mdash; Production-Grade Fullstack Platform</b></summary>
@@ -107,7 +109,7 @@ A cloud-native, event-driven image metadata extraction pipeline leveraging AWS s
 | **Scale** | Auto-scaling · Pay-per-use · Handles burst workloads |
 | **Impact** | Zero-infrastructure-management processing at cloud scale |
 
-Architected the S3-Lambda event pipeline, wrote Python Lambda handlers for metadata extraction, and configured IAM roles for least-privilege access across services.
+Architected the S3-Lambda event pipeline, wrote Python Lambda handlers for metadata extraction, and configured IAM roles for least-privilege access.
 
 </details>
 
@@ -129,33 +131,33 @@ Built the LLM integration layer, designed the financial data ingestion pipeline,
 <details>
 <summary><b>&#9654; SmartGlove &mdash; Assistive Communication & Health Platform</b></summary>
 
-A hardware-software system enabling communication and health monitoring for individuals with paralysis, translating physical gestures into meaningful digital output.
+A hardware-software system enabling communication and health monitoring for individuals with paralysis, translating physical gestures into digital output.
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Python &middot; IoT Sensors &middot; Signal Processing &middot; Mobile |
-| **Domain** | Assistive technology · Healthcare · Human-Computer Interaction |
+| **Stack** | Python &middot; IoT Sensors &middot; Signal Processing |
+| **Domain** | Assistive technology · Healthcare · HCI |
 | **Impact** | Bridges communication gap for paralysis patients |
 
-Developed the gesture recognition logic, signal processing pipeline, and application layer translating sensor data to communication output.
+Developed gesture recognition logic and signal processing pipeline translating sensor data to communication output.
 
 </details>
 
 ---
 
-## `$ cat experience.log`
+## Experience
 
 ```
 [2024 – Present]  HG Infotech · Bangalore
                   Software Engineer Intern — Fullstack + DevOps + Cloud
 
-  ▸ Architecting and shipping fullstack features using FastAPI (backend)
-    and React (frontend) in a production environment
+  ▸ Architecting and shipping fullstack features using FastAPI and React
+    in a production environment
   ▸ Containerizing services with Docker; managing multi-container
     deployments with Docker Compose
-  ▸ Building and maintaining CI/CD pipelines (GitHub Actions) for
+  ▸ Building and maintaining CI/CD pipelines via GitHub Actions for
     automated testing and cloud deployment
-  ▸ Working on cloud infrastructure (AWS) and transitioning towards
+  ▸ Working on AWS cloud infrastructure and transitioning towards
     ERP system integration
   ▸ Collaborating on scalable backend design and database optimization
 
@@ -164,29 +166,29 @@ Developed the gesture recognition logic, signal processing pipeline, and applica
 
 ---
 
-## `$ cat education.txt`
+## Education
 
-![B.Tech](https://img.shields.io/badge/B.Tech_Computer_Science_&_Engineering-Vimal_Jyothi_Engineering_College,_Chemperi-00D4FF?style=for-the-badge&labelColor=0A0F1A)
-![Passout](https://img.shields.io/badge/Expected_Graduation-2026-00AAFF?style=for-the-badge&labelColor=0A0F1A)
+![B.Tech](https://img.shields.io/badge/B.Tech_CSE-Vimal_Jyothi_Engineering_College,_Chemperi-C0392B?style=for-the-badge&labelColor=0D0000)
+![Passout](https://img.shields.io/badge/Expected_Graduation-2026-8B0000?style=for-the-badge&labelColor=0D0000)
 
-![Cert](https://img.shields.io/badge/Certificate-Database_Management_Essentials-00D4FF?style=for-the-badge&logo=coursera&logoColor=white&labelColor=0A0F1A)
-![Issuer](https://img.shields.io/badge/Issued_by-University_of_Colorado_System-00AAFF?style=for-the-badge&labelColor=0A0F1A)
+![Cert](https://img.shields.io/badge/Certificate-Database_Management_Essentials-C0392B?style=for-the-badge&logo=coursera&logoColor=white&labelColor=0D0000)
+![Issuer](https://img.shields.io/badge/Issued_by-University_of_Colorado_System-8B0000?style=for-the-badge&labelColor=0D0000)
 
 ---
 
-## `$ ./analytics.sh`
+## GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lucashobhin&show_icons=true&hide_border=true&title_color=00D4FF&icon_color=00AAFF&text_color=C9D1D9&bg_color=0A0F1A&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lucashobhin&show_icons=true&hide_border=true&title_color=C0392B&icon_color=E74C3C&text_color=C9D1D9&bg_color=0D0000&count_private=true" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucashobhin&hide_border=true&background=0A0F1A&stroke=00D4FF&ring=00AAFF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=C9D1D9&sideNums=00D4FF" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucashobhin&hide_border=true&background=0D0000&stroke=C0392B&ring=8B0000&fire=C0392B&currStreakLabel=C0392B&sideLabels=C9D1D9&dates=C9D1D9&sideNums=C0392B" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucashobhin&layout=compact&hide_border=true&title_color=00D4FF&text_color=C9D1D9&bg_color=0A0F1A" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucashobhin&layout=compact&hide_border=true&title_color=C0392B&text_color=C9D1D9&bg_color=0D0000" />
 
 </div>
 
@@ -198,27 +200,27 @@ Developed the gesture recognition logic, signal processing pipeline, and applica
 
 ---
 
-## `$ cat trophies.json`
+## Trophies
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Lucashobhin&theme=algolia&no-frame=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Lucashobhin&theme=dracula&no-frame=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## `$ tail -f activity.log`
+## Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucashobhin&bg_color=0A0F1A&color=00D4FF&line=00AAFF&point=00D4FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucashobhin&bg_color=0D0000&color=C0392B&line=8B0000&point=E74C3C&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## `> cat current-focus.yaml`
+## Currently
 
 ```yaml
 building:
@@ -238,19 +240,16 @@ open_to:
 
 ---
 
-## `$ ping connect`
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0F1A)](https://www.linkedin.com/in/shobhin-jose-7a253b375)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-00AAFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F1A)](mailto:shobhinjose9562@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0F1A)](https://github.com/Lucashobhin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-C0392B?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0000)](https://www.linkedin.com/in/shobhin-jose-7a253b375)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-8B0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0000)](mailto:shobhinjose9562@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-C0392B?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0000)](https://github.com/Lucashobhin)
 
 *"Ship fast. Learn faster. Build things that matter."*
 
 </div>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0A0F1A&height=80&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0D0000&height=80&section=footer" />
 </div>
-
