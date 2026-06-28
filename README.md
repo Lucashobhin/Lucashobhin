@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0D0000&height=200&fontColor=C0392B&text=SHOBHIN%20JOSE&fontSize=45&desc=Fullstack%20Engineer%20%7C%20DevOps%20%7C%20Cloud&descColor=E74C3C&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0D0000&height=180&fontColor=C0392B&text=SHOBHIN%20JOSE&fontSize=45&desc=Fullstack%20Engineer%20%7C%20DevOps%20%7C%20Cloud&descColor=E74C3C&descSize=18&animation=fadeIn" />
 </div>
 
 <br/>
@@ -13,7 +13,7 @@
 <div align="center">
 
 ![Degree](https://img.shields.io/badge/B.Tech_CSE-Vimal_Jyothi_Engineering_College-C0392B?style=flat-square&labelColor=0D0000)
-![Batch](https://img.shields.io/badge/Batch-2026-8B0000?style=flat-square&labelColor=0D0000)
+![Batch](https://img.shields.io/badge/Graduated-2026-8B0000?style=flat-square&labelColor=0D0000)
 ![Location](https://img.shields.io/badge/Bangalore,_India-C0392B?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0D0000)
 
 </div>
@@ -35,19 +35,18 @@
 
 ---
 
-## whoami
+## About Me
 
 Fullstack Engineer and DevOps practitioner building production-grade systems at HG Infotech, Bangalore. I architect end-to-end pipelines — from containerized microservices to cloud-native deployments — with a growing focus on ERP modernization and intelligent automation.
 
-```bash
-$ cat .profile
-
-ROLE      =  Fullstack Engineer · DevOps & Cloud
-EXP       =  Fresher · Software Intern @ HG Infotech
-DOMAIN    =  Fullstack Dev  |  DevOps  |  Cloud  |  ERP
-STACK     =  Python  |  FastAPI  |  React  |  Docker  |  AWS  |  CI/CD
-OPEN_TO   =  DevOps Engineer  |  Cloud Engineer  |  Fullstack Roles
-```
+| | |
+|:--|:--|
+| 🧑‍💻 **Role** | Fullstack Engineer · DevOps & Cloud |
+| 🏢 **Company** | Software Intern @ HG Infotech, Bangalore |
+| 🎓 **Education** | B.Tech CSE · Vimal Jyothi Engineering College · 2026 |
+| 🌐 **Domain** | Fullstack Dev · DevOps · Cloud · ERP |
+| 🛠️ **Stack** | Python · FastAPI · React · Docker · AWS · CI/CD |
+| 🎯 **Open To** | DevOps Engineer · Cloud Engineer · Fullstack Roles |
 
 ---
 
@@ -147,32 +146,31 @@ Developed gesture recognition logic and signal processing pipeline translating s
 
 ## Experience
 
-```
-[2024 – Present]  HG Infotech · Bangalore
-                  Software Engineer Intern — Fullstack + DevOps + Cloud
+**HG Infotech · Bangalore** — Software Engineer Intern
+`2026 – Present` · Fullstack + DevOps + Cloud
 
-  ▸ Architecting and shipping fullstack features using FastAPI and React
-    in a production environment
-  ▸ Containerizing services with Docker; managing multi-container
-    deployments with Docker Compose
-  ▸ Building and maintaining CI/CD pipelines via GitHub Actions for
-    automated testing and cloud deployment
-  ▸ Working on AWS cloud infrastructure and transitioning towards
-    ERP system integration
-  ▸ Collaborating on scalable backend design and database optimization
+- Architecting and shipping fullstack features using FastAPI and React in a production environment
+- Containerizing services with Docker; managing multi-container deployments with Docker Compose
+- Building and maintaining CI/CD pipelines via GitHub Actions for automated testing and cloud deployment
+- Working on AWS cloud infrastructure and transitioning towards ERP system integration
+- Collaborating on scalable backend design and database optimization
 
-  TAGS: Python · FastAPI · React · Docker · CI/CD · AWS · ERP
-```
+![Python](https://img.shields.io/badge/Python-0D0000?style=flat-square&logo=python&logoColor=C0392B)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D0000?style=flat-square&logo=fastapi&logoColor=C0392B)
+![React](https://img.shields.io/badge/React-0D0000?style=flat-square&logo=react&logoColor=C0392B)
+![Docker](https://img.shields.io/badge/Docker-0D0000?style=flat-square&logo=docker&logoColor=C0392B)
+![AWS](https://img.shields.io/badge/AWS-0D0000?style=flat-square&logo=amazonaws&logoColor=C0392B)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0D0000?style=flat-square&logo=githubactions&logoColor=C0392B)
 
 ---
 
 ## Education
 
 ![B.Tech](https://img.shields.io/badge/B.Tech_CSE-Vimal_Jyothi_Engineering_College,_Chemperi-C0392B?style=for-the-badge&labelColor=0D0000)
-![Passout](https://img.shields.io/badge/Expected_Graduation-2026-8B0000?style=for-the-badge&labelColor=0D0000)
+![Graduated](https://img.shields.io/badge/Graduated-2026-8B0000?style=for-the-badge&labelColor=0D0000)
 
-![Cert](https://img.shields.io/badge/Certificate-Database_Management_Essentials-C0392B?style=for-the-badge&logo=coursera&logoColor=white&labelColor=0D0000)
-![Issuer](https://img.shields.io/badge/Issued_by-University_of_Colorado_System-8B0000?style=for-the-badge&labelColor=0D0000)
+![Cert](https://img.shields.io/badge/Database_Management_Essentials-Coursera-C0392B?style=for-the-badge&logo=coursera&logoColor=white&labelColor=0D0000)
+![Issuer](https://img.shields.io/badge/University_of_Colorado_System-verified-8B0000?style=for-the-badge&labelColor=0D0000)
 
 ---
 
@@ -215,6 +213,20 @@ Developed gesture recognition logic and signal processing pipeline translating s
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucashobhin&bg_color=0D0000&color=C0392B&line=8B0000&point=E74C3C&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## Snake 🐍
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucashobhin/Lucashobhin/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucashobhin/Lucashobhin/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Lucashobhin/Lucashobhin/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
